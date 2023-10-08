@@ -1,4 +1,5 @@
 //02-10-23//
+//java code//
 public class Solution {
     public boolean winnerOfGame(String colors) {
         Map<Character, Integer> c = new HashMap<>();
