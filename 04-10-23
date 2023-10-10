@@ -1,3 +1,4 @@
+//Shreyash Ingole//
 class MyHashMap {
     int[] data;
     public MyHashMap() {
