@@ -1,5 +1,5 @@
 //02-10-23//
-//java code//
+//Shreyash Ingole//
 public class Solution {
     public boolean winnerOfGame(String colors) {
         Map<Character, Integer> c = new HashMap<>();
